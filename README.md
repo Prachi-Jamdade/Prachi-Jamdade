@@ -9,7 +9,7 @@
 
 - 🌱 I’m on track for learning more about **Data Science, Machine Learning.**
 
-- 📝 I regularly write articles on [https://medium.com/@prachi-jamdade](https://medium.com/@prachi-jamdade)
+- 📝 I regularly write articles on **[https://medium.com/@prachi-jamdade](https://medium.com/@prachi-jamdade)**
 
 - 📧 You can shoot me an email at **prachi.jamdade2390@gmail.com**
 
