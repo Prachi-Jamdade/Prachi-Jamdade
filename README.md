@@ -9,8 +9,8 @@
 - 📧 You can shoot me an email at prachi.jamdade2390@gmail.com! I'll try to respond as soon as I can.
 
 🛠 Tech Stack
-- Java
-- C++
+- Java 
+- C++ 
 - Python
 - HTML
 - CSS
@@ -23,3 +23,7 @@
 - LinkedIn : https://www.linkedin.com/in/jamdade-prachi/
 - Medium : https://medium.com/@Prachi-Jamdade
 - Email : prachi.jamdade2390@gmail.com
+
+⚙️  GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prachi-Jamdade&theme=onedark)
