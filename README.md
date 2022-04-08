@@ -1,5 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prachi-jamdade&label=Profile%20views&color=0e75b6&style=flat" alt="prachi-jamdade" /> </p>
 
+<h3 align="left">👩🏻‍💻 About Me</h3>
+
 - 💡 I like to explore **new technologies and develop software solutions.**
 
 - 💬 Ask me about **Data Structures and Algorithms, Android Development**
@@ -13,7 +15,7 @@
 - 📧 You can shoot me an email at **prachi.jamdade2390@gmail.com**
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🤝🏻 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jamdade-prachi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jamdade-prachi" height="30" width="40" /></a>
 <a href="https://medium.com/@prachi-jamdade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@prachi-jamdade" height="30" width="40" /></a>
@@ -22,7 +24,7 @@
 <a href="https://auth.geeksforgeeks.org/user/djamdade72/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="djamdade72/profile" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠 Languages and Tools:</h3>
 <p align="left">
   
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
@@ -36,6 +38,8 @@
 <div align="center">
   <hr  width="50%"/>
   </div>
+  
+<h3 align="left">⚙️ GitHub Analytics</h3>
 <div>
   <img  src="https://github-readme-stats.vercel.app/api?username=prachi-jamdade&show_icons=true&theme=radical" alt="prachi-jamdade" />
 
