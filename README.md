@@ -4,7 +4,7 @@
 
 - 💡 I like to explore **new technologies and develop software solutions.**
 
-- 💬 Ask me about **Data Structures and Algorithms, Android Development**
+- 💬 Ask me about **Android Development**
 
 - 🌱 I’m on track for learning more about **Data Science and Machine Learning**
 
