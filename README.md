@@ -2,9 +2,9 @@
 
 <h3 align="left">👩🏻‍💻 About Me</h3>
 
-- 💡 I like to explore **new technologies and develop software solutions.**
+- 💡 I like to explore **new technologies.**
 
-- 🌱 I’m on track for learning more about **Data Science and Machine Learning**
+- 🌱 I’m on track for learning more about **Data Science and Machine Learning.**
 
 - 📝 I regularly write articles on **[https://medium.com/@prachi-jamdade](https://medium.com/@prachi-jamdade)**
 
