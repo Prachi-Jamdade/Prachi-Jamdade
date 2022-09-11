@@ -6,8 +6,6 @@
 
 - 💬 Ask me about **Data Structures and Algorithms, Android Development**
 
-- 👩🏻‍🎓 I'm currently studying **Computer Engineering at Government Polytechnic Mumbai**
-
 - 🌱 I’m on track for learning more about **Data Science and Machine Learning**
 
 - 📝 I regularly write articles on **[https://medium.com/@prachi-jamdade](https://medium.com/@prachi-jamdade)**
