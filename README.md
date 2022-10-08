@@ -46,4 +46,4 @@
 <div align="center">
   <hr  width="50%"/>
   </div>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prachi-jamdade&show_icons=true&locale=en&layout=compact&theme=radical" alt="prachi-jamdade" />
+
