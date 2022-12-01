@@ -6,7 +6,7 @@
 
 - 👩‍💻 I am working as an **Android Developer** in a fast growing FinTech startup.
 
-- 💡 I write for my fellow developers as per my knowledge and intense reasearch as a **Freelance Technical Writer**
+- ✍ I write for my fellow developers as per my knowledge and intense research as a **Freelance Technical Writer**
 
 - 🌱 I’m on track for learning more about **Data Science and Machine Learning.**
 
