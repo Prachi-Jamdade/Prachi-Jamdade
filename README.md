@@ -4,6 +4,10 @@
 
 - 💡 I like to explore **new technologies.**
 
+- 👩‍💻 I am working as an **Android Developer** in a fast growing FinTech startup.
+
+- 💡 I write for my fellow developers as per my knowledge and intense reasearch as a **Freelance Technical Writer**
+
 - 🌱 I’m on track for learning more about **Data Science and Machine Learning.**
 
 - 📝 I regularly write articles on **[https://medium.com/@prachi-jamdade](https://medium.com/@prachi-jamdade)**
