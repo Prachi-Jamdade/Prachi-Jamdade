@@ -1,14 +1,8 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prachi-jamdade&label=Profile%20views&color=0e75b6&style=flat" alt="prachi-jamdade" /> </p>
-
 <h3 align="left">👩🏻‍💻 About Me</h3>
-
-- 💡 I like to explore **new technologies.**
 
 - 👩‍💻 I am working as an **Android Developer** in a fast growing FinTech startup.
 
 - ✍ I am also a **Freelance Technical Writer**
-
-- 🌱 I’m on track for learning more about **Data Science and Machine Learning.**
 
 - 📝 I regularly write articles on **[https://medium.com/@prachi-jamdade](https://medium.com/@prachi-jamdade)**
 
