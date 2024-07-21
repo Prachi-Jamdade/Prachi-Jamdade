@@ -28,8 +28,8 @@ def update_readme(articles):
         content = file.read()
 
     # Find the section to update
-    start_marker = '## Recent Articles'
-    end_marker = '##'
+    start_marker = '<!-- ARTICLES -->'
+    end_marker = '<!-- /ARTICLES -->'
     start_index = content.find(start_marker)
     end_index = content.find(end_marker, start_index + len(start_marker))
 
@@ -38,7 +38,7 @@ def update_readme(articles):
         after = content[end_index:]
         new_content = f'{before}\n{articles}\n{after}'
     else:
-        new_content = f'{content}\n\n{start_marker}\n\n{articles}'
+        new_content = f'{content}\n\n{start_marker}\n\n{articles}\n{end_marker}'
 
     with open(readme_path, 'w') as file:
         file.write(new_content)
