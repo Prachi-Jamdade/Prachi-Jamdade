@@ -6,6 +6,8 @@
 
 - 📝 Creating technical content and sharing my learnings.
 
+- 🌐 Building and empowering developer communities, one connection at a time!
+
 - 📧 You can shoot me an email at **prachi.jamdade2390@gmail.com**
 
 <!-- ARTICLES -->
