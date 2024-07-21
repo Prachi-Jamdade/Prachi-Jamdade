@@ -1,0 +1,35 @@
+name: Update Recent Articles
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight (UTC)
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Fetch and update articles
+        run: |
+          python fetch_articles.py
+
+      - name: Commit and push changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: Prachi Jamdade
+          author_email: prachi.jamdade2390@gmail.com
+          message: 'Update recent articles'
+          add: 'recent_articles.md'
+          push: true
