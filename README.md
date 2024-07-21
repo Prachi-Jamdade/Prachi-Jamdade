@@ -8,10 +8,6 @@
 
 - 📧 You can shoot me an email at **prachi.jamdade2390@gmail.com**
 
-## Recent Articles
-
-Here are some of my recent articles:
-
 <!-- ARTICLES -->
 ## Recent Articles
 
