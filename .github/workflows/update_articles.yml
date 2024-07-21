@@ -30,6 +30,8 @@ jobs:
         with:
           author_name: Prachi Jamdade
           author_email: prachi.jamdade2390@gmail.com
-          message: 'Update recent articles'
-          add: 'recent_articles.md'
+          message: 'Update recent articles in README'
+          add: |
+            recent_articles.md
+            README.md
           push: true

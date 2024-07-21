@@ -21,8 +21,29 @@ def write_article_names(file_path, articles):
         for article in articles:
             f.write(f"- [{article['title']}]({article['link']})\n")
 
+def update_readme():
+    with open('recent_articles.md', 'r') as ra:
+        recent_articles = ra.read()
+
+    with open('README.md', 'r') as readme:
+        readme_content = readme.read()
+
+    start_marker = '<!-- START_SECTION:recent_articles -->'
+    end_marker = '<!-- END_SECTION:recent_articles -->'
+
+    start_idx = readme_content.find(start_marker) + len(start_marker)
+    end_idx = readme_content.find(end_marker)
+
+    updated_content = (readme_content[:start_idx] + "\n" + 
+                       recent_articles + "\n" + 
+                       readme_content[end_idx:])
+
+    with open('README.md', 'w') as readme:
+        readme.write(updated_content)
+
 if __name__ == "__main__":
     FEED_URL = 'https://medium.com/feed/@Prachi-Jamdade'
     feed_content = fetch_articles(FEED_URL)
     articles = parse_articles(feed_content)
     write_article_names('recent_articles.md', articles)
+    update_readme()
