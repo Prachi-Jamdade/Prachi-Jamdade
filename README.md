@@ -57,9 +57,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=prachi-jamdade&show_icons=true&theme=radical" alt="prachi-jamdade" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prachi-jamdade&theme=radical" alt="prachi-jamdade" />
 </div>
-
-<div align="center">
-  <hr width="50%"/>
-</div>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prachi-jamdade&show_icons=true&locale=en&layout=compact&theme=radical&cache_seconds=1800" alt="prachi-jamdade" />
