@@ -1,49 +1,37 @@
-import requests
-import xml.etree.ElementTree as ET
+import feedparser
+import os
 
-def fetch_articles(feed_url):
-    response = requests.get(feed_url)
-    response.raise_for_status()
-    return response.content
-
-def parse_articles(feed_content):
-    root = ET.fromstring(feed_content)
+# Function to fetch articles from the RSS feed
+def fetch_articles():
+    feed_url = "https://medium.com/feed/@Prachi-Jamdade"
+    feed = feedparser.parse(feed_url)
     articles = []
-    for item in root.findall('./channel/item'):
-        title = item.find('title').text
-        link = item.find('link').text
-        articles.append({'title': title, 'link': link})
-    return articles
 
-def write_article_names(file_path, articles):
-    with open(file_path, 'w') as f:
-        f.write('## Recent Articles\n\n')
-        for article in articles:
-            f.write(f"- [{article['title']}]({article['link']})\n")
+    for entry in feed.entries[:10]:
+        article = f"- [{entry.title}]({entry.link})"
+        articles.append(article)
 
-def update_readme():
-    with open('recent_articles.md', 'r') as ra:
-        recent_articles = ra.read()
+    return "\n".join(articles)
 
-    with open('README.md', 'r') as readme:
-        readme_content = readme.read()
+# Function to update the README.md file
+def update_readme(articles):
+    readme_path = "README.md"
+    with open(readme_path, "r") as file:
+        readme_content = file.read()
 
-    start_marker = '<!-- START_SECTION:recent_articles -->'
-    end_marker = '<!-- END_SECTION:recent_articles -->'
+    start_marker = "<!-- ARTICLES -->"
+    end_marker = "<!-- /ARTICLES -->"
 
-    start_idx = readme_content.find(start_marker) + len(start_marker)
-    end_idx = readme_content.find(end_marker)
+    if start_marker not in readme_content:
+        print("Placeholder not found in README.md")
+        return
 
-    updated_content = (readme_content[:start_idx] + "\n" + 
-                       recent_articles + "\n" + 
-                       readme_content[end_idx:])
+    new_content = f"{start_marker}\n\n{articles}\n\n{end_marker}"
+    updated_content = readme_content.split(start_marker)[0] + new_content + readme_content.split(end_marker)[1]
 
-    with open('README.md', 'w') as readme:
-        readme.write(updated_content)
+    with open(readme_path, "w") as file:
+        file.write(updated_content)
 
 if __name__ == "__main__":
-    FEED_URL = 'https://medium.com/feed/@Prachi-Jamdade'
-    feed_content = fetch_articles(FEED_URL)
-    articles = parse_articles(feed_content)
-    write_article_names('recent_articles.md', articles)
-    update_readme()
+    articles = fetch_articles()
+    update_readme(articles)
