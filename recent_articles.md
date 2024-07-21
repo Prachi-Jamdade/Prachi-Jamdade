@@ -1,6 +1,3 @@
-<h3 align="left">👩🏻‍💻 About Me</h3>
-
-
 ## Recent Articles
 
 - [Goodbye to Manual Firebase Setup using FlutterFire CLI ](https://levelup.gitconnected.com/goodbye-to-manual-firebase-setup-using-flutterfire-cli-4e50e1857b31?source=rss-49a7478e4e39------2)
@@ -13,5 +10,3 @@
 - [A complete guide to implementing Feature Flags in Android](https://levelup.gitconnected.com/a-complete-guide-to-implement-feature-flags-in-android-292911c085e6?source=rss-49a7478e4e39------2)
 - [Data Structures and Algorithms in Real Life!](https://levelup.gitconnected.com/data-structures-and-algorithms-in-real-life-161619607632?source=rss-49a7478e4e39------2)
 - [Make your Android Studio Look Awesome ](https://levelup.gitconnected.com/make-your-android-studio-look-awesome-ec982d1e0dfe?source=rss-49a7478e4e39------2)
-
-
