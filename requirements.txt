@@ -1,1 +1,1 @@
-feedparser
+requests

@@ -1,36 +1,47 @@
-import feedparser
-import os
+import requests
+import xml.etree.ElementTree as ET
 
-# Function to fetch articles from the RSS feed
+# URL of the RSS feed
+RSS_URL = 'https://medium.com/feed/@Prachi-Jamdade'
+
+# Function to fetch and parse RSS feed
 def fetch_articles():
-    feed_url = "https://medium.com/feed/@Prachi-Jamdade"
-    feed = feedparser.parse(feed_url)
+    response = requests.get(RSS_URL)
+    response.raise_for_status()  # Check if the request was successful
+
+    # Parse the RSS feed
+    root = ET.fromstring(response.content)
+    items = root.findall('.//item')
+
     articles = []
+    for item in items:
+        title = item.find('title').text
+        link = item.find('link').text
+        articles.append(f'- [{title}]({link})')
 
-    for entry in feed.entries[:10]:
-        article = f"- [{entry.title}]({entry.link})"
-        articles.append(article)
+    return '\n'.join(articles)
 
-    return "\n".join(articles)
-
-# Function to update the README.md file
+# Function to update README.md
 def update_readme(articles):
-    readme_path = "README.md"
-    with open(readme_path, "r") as file:
-        readme_content = file.read()
+    readme_path = 'README.md'
+    with open(readme_path, 'r') as file:
+        content = file.read()
 
-    start_marker = "<!-- ARTICLES -->"
-    end_marker = "<!-- /ARTICLES -->"
+    # Find the section to update
+    start_marker = '## Recent Articles'
+    end_marker = '##'
+    start_index = content.find(start_marker)
+    end_index = content.find(end_marker, start_index + len(start_marker))
 
-    if start_marker not in readme_content:
-        print("Placeholder not found in README.md")
-        return
+    if start_index != -1 and end_index != -1:
+        before = content[:start_index + len(start_marker)]
+        after = content[end_index:]
+        new_content = f'{before}\n{articles}\n{after}'
+    else:
+        new_content = f'{content}\n\n{start_marker}\n\n{articles}'
 
-    new_content = f"{start_marker}\n\n{articles}\n\n{end_marker}"
-    updated_content = readme_content.split(start_marker)[0] + new_content + readme_content.split(end_marker)[1]
-
-    with open(readme_path, "w") as file:
-        file.write(updated_content)
+    with open(readme_path, 'w') as file:
+        file.write(new_content)
 
 if __name__ == "__main__":
     articles = fetch_articles()
