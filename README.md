@@ -11,6 +11,11 @@
 - 📧 You can shoot me an email at **prachi.jamdade2390@gmail.com**
 
 <!-- ARTICLES -->
+
+## Recent Articles
+
+- [Validating forms in React Apps with Zod](https://dev.to/guilhermecheng/validating-forms-in-react-apps-with-zod-2boh)
+- [How to use DEV.to API](https://dev.to/guilhermecheng/how-to-use-devto-api-4p65)
 <!-- /ARTICLES -->
 
 <h3 align="left">🤝🏻 Connect with me:</h3>
