@@ -14,8 +14,11 @@
 
 ## Recent Articles
 
-- [Validating forms in React Apps with Zod](https://dev.to/guilhermecheng/validating-forms-in-react-apps-with-zod-2boh)
-- [How to use DEV.to API](https://dev.to/guilhermecheng/how-to-use-devto-api-4p65)
+- [C# | Understanding the Observer Pattern](https://dev.to/hbolajraf/c-understanding-the-observer-pattern-1nm6)
+- [C# | Avoid Multiple Nested If-Else Statements Using Guard Clause](https://dev.to/hbolajraf/c-avoid-multiple-nested-if-else-statements-using-guard-clause-2ng4)
+- [C# | Web Api's Tips and Tricks](https://dev.to/hbolajraf/c-web-apis-tips-and-tricks-33ic)
+- [C# | Common Errors](https://dev.to/hbolajraf/c-common-errors-1874)
+- [C# | Tips and tricks](https://dev.to/hbolajraf/c-tips-and-tricks-3jf4)
 <!-- /ARTICLES -->
 
 <h3 align="left">🤝🏻 Connect with me:</h3>
