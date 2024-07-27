@@ -14,11 +14,11 @@
 
 ## Articles
 
-- [C# | Tips and tricks](https://dev.to/hbolajraf/c-tips-and-tricks-3jf4)
-- [C# | Avoid Multiple Nested If-Else Statements Using Guard Clause](https://dev.to/hbolajraf/c-avoid-multiple-nested-if-else-statements-using-guard-clause-2ng4)
-- [Git | Tips and Tricks](https://dev.to/hbolajraf/git-tips-and-tricks-5326)
-- [Azure | Azure Functions By Example](https://dev.to/hbolajraf/azure-azure-functions-by-example-45lb)
-- [C# | Create Nuget Package using .NET Standard](https://dev.to/hbolajraf/c-create-nuget-package-using-net-standard-9oi)
+- [5 Tools Every Developer Should Use in 2024](https://dev.to/arindam_1729/5-tools-every-developer-must-use-in-2024-438)
+- [How to Use Google Gemini with Node.js](https://dev.to/arindam_1729/how-to-use-google-gemini-with-nodejs-2d39)
+- [How to Implement Authorization in NodeJS](https://dev.to/arindam_1729/how-to-implement-authorization-in-nodejs-31hk)
+- [How to Build a Request Access Approval System in Next.js](https://dev.to/arindam_1729/how-to-build-a-request-access-approval-system-using-nextjs-p3p)
+- [5 Developer Communities You Must Join in 2024](https://dev.to/arindam_1729/5-developer-communities-you-must-join-in-2024-2afa)
 <!-- /ARTICLES -->
 
 <h3 align="left">🤝🏻 Connect with me:</h3>
