@@ -14,11 +14,11 @@
 
 ## Articles
 
-- [5 Tools Every Developer Should Use in 2024](https://dev.to/arindam_1729/5-tools-every-developer-must-use-in-2024-438)
-- [How to Use Google Gemini with Node.js](https://dev.to/arindam_1729/how-to-use-google-gemini-with-nodejs-2d39)
-- [How to Implement Authorization in NodeJS](https://dev.to/arindam_1729/how-to-implement-authorization-in-nodejs-31hk)
-- [How to Build a Request Access Approval System in Next.js](https://dev.to/arindam_1729/how-to-build-a-request-access-approval-system-using-nextjs-p3p)
-- [5 Developer Communities You Must Join in 2024](https://dev.to/arindam_1729/5-developer-communities-you-must-join-in-2024-2afa)
+- [TikCommerce: an eCommerce experience for the Next generation](https://dev.to/paul_freeman/tikcommerce-an-ecommerce-experience-for-the-next-generation-nfc)
+- [Free & open-source landing page templates 🔥](https://dev.to/paul_freeman/free-landing-page-templates-30hh)
+- [Wix's Velo API is super frustrating 😟](https://dev.to/paul_freeman/wixs-velo-api-is-super-frustrating-3lm7)
+- [Simple developer portfolio](https://dev.to/paul_freeman/simple-developer-portfolio-1cc5)
+- [Why do AI articles trend on Dev.to?](https://dev.to/paul_freeman/why-do-ai-articles-trend-on-devto-hh8)
 <!-- /ARTICLES -->
 
 <h3 align="left">🤝🏻 Connect with me:</h3>
