@@ -14,7 +14,11 @@
 
 ## Articles
 
-- [Creating Custom Annotations for Validation in Spring Boot](https://dev.to/eric6166/creating-custom-annotations-for-validation-in-spring-boot-16j1)
+- [TikCommerce: an eCommerce experience for the Next generation](https://dev.to/paul_freeman/tikcommerce-an-ecommerce-experience-for-the-next-generation-nfc)
+- [Free & open-source landing page templates 🔥](https://dev.to/paul_freeman/free-landing-page-templates-30hh)
+- [Wix's Velo API is super frustrating 😟](https://dev.to/paul_freeman/wixs-velo-api-is-super-frustrating-3lm7)
+- [Simple developer portfolio](https://dev.to/paul_freeman/simple-developer-portfolio-1cc5)
+- [Why do AI articles trend on Dev.to?](https://dev.to/paul_freeman/why-do-ai-articles-trend-on-devto-hh8)
 <!-- /ARTICLES -->
 
 <h3 align="left">🤝🏻 Connect with me:</h3>
