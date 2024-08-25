@@ -11,19 +11,14 @@
 - 📧 You can shoot me an email at **prachi.jamdade2390@gmail.com**
 
 <!-- ARTICLES -->
-## Recent Articles
 
-- [Goodbye to Manual Firebase Setup using FlutterFire CLI ](https://levelup.gitconnected.com/goodbye-to-manual-firebase-setup-using-flutterfire-cli-4e50e1857b31?source=rss-49a7478e4e39------2)
-- [ZK Rollup — A Revolution in Scaling Blockchain](https://levelup.gitconnected.com/zk-rollup-a-revolution-in-scaling-blockchain-d7acd689bee8?source=rss-49a7478e4e39------2)
-- [Breaking Barriers, Shattering Stereotypes: Empowering Women in Tech](https://medium.com/@Prachi-Jamdade/breaking-barriers-shattering-stereotypes-empowering-women-in-tech-8d112eab3d99?source=rss-49a7478e4e39------2)
-- [React Native Navigation Libraries: A Comparative Analysis](https://levelup.gitconnected.com/react-native-navigation-libraries-a-comparative-analysis-a5654618247c?source=rss-49a7478e4e39------2)
-- [Say Goodbye to OTPs using Login With WhatsApp](https://levelup.gitconnected.com/say-goodbye-to-otps-using-login-with-whatsapp-2c3418e7cce9?source=rss-49a7478e4e39------2)
-- [Best 15 VS Code Extensions to Enhance Productivity as a Developer](https://medium.com/@Prachi-Jamdade/best-15-vs-code-extensions-to-enhance-productivity-as-a-developer-d8c2ec487f37?source=rss-49a7478e4e39------2)
-- [Singleton Design Pattern in Android Explained](https://medium.com/@Prachi-Jamdade/singleton-design-pattern-in-android-explained-5c46f6cd3448?source=rss-49a7478e4e39------2)
-- [A complete guide to implementing Feature Flags in Android](https://levelup.gitconnected.com/a-complete-guide-to-implement-feature-flags-in-android-292911c085e6?source=rss-49a7478e4e39------2)
-- [Data Structures and Algorithms in Real Life!](https://levelup.gitconnected.com/data-structures-and-algorithms-in-real-life-161619607632?source=rss-49a7478e4e39------2)
-- [Make your Android Studio Look Awesome ](https://levelup.gitconnected.com/make-your-android-studio-look-awesome-ec982d1e0dfe?source=rss-49a7478e4e39------2)
+## Articles
 
+- [Free & open-source landing page templates 🔥](https://dev.to/paul_freeman/free-landing-page-templates-30hh)
+- [TikCommerce: an eCommerce experience for the Next generation](https://dev.to/paul_freeman/tikcommerce-an-ecommerce-experience-for-the-next-generation-nfc)
+- [What are you guys building?](https://dev.to/paul_freeman/what-are-you-guys-building-4k1l)
+- [Simple developer portfolio](https://dev.to/paul_freeman/simple-developer-portfolio-1cc5)
+- [Must Have VsCode extensions for Web-developers](https://dev.to/paul_freeman/must-have-vscode-extensions-for-web-developers-13ge)
 <!-- /ARTICLES -->
 
 <h3 align="left">🤝🏻 Connect with me:</h3>
