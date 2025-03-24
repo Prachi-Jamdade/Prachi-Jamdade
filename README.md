@@ -11,14 +11,19 @@
 - 📧 You can shoot me an email at **prachi.jamdade2390@gmail.com**
 
 <!-- ARTICLES -->
+## Recent Articles
 
-## Articles
+- [Understanding Vector Embeddings and Vector Store](https://levelup.gitconnected.com/understanding-vector-embeddings-and-vector-store-b2c6e4fd6abd?source=rss-49a7478e4e39------2)
+- [How I Simplified Web Scraping and Data Extraction with Firecrawl and LLM](https://levelup.gitconnected.com/how-i-simplified-web-scraping-and-data-extraction-with-firecrawl-and-llm-12292dba25cb?source=rss-49a7478e4e39------2)
+- [Goodbye to Manual Firebase Setup using FlutterFire CLI ](https://levelup.gitconnected.com/goodbye-to-manual-firebase-setup-using-flutterfire-cli-4e50e1857b31?source=rss-49a7478e4e39------2)
+- [ZK Rollup — A Revolution in Scaling Blockchain](https://levelup.gitconnected.com/zk-rollup-a-revolution-in-scaling-blockchain-d7acd689bee8?source=rss-49a7478e4e39------2)
+- [Breaking Barriers, Shattering Stereotypes: Empowering Women in Tech](https://medium.com/@Prachi-Jamdade/breaking-barriers-shattering-stereotypes-empowering-women-in-tech-8d112eab3d99?source=rss-49a7478e4e39------2)
+- [React Native Navigation Libraries: A Comparative Analysis](https://levelup.gitconnected.com/react-native-navigation-libraries-a-comparative-analysis-a5654618247c?source=rss-49a7478e4e39------2)
+- [Say Goodbye to OTPs using Login With WhatsApp](https://levelup.gitconnected.com/say-goodbye-to-otps-using-login-with-whatsapp-2c3418e7cce9?source=rss-49a7478e4e39------2)
+- [Best 15 VS Code Extensions to Enhance Productivity as a Developer](https://medium.com/@Prachi-Jamdade/best-15-vs-code-extensions-to-enhance-productivity-as-a-developer-d8c2ec487f37?source=rss-49a7478e4e39------2)
+- [Singleton Design Pattern in Android Explained](https://medium.com/@Prachi-Jamdade/singleton-design-pattern-in-android-explained-5c46f6cd3448?source=rss-49a7478e4e39------2)
+- [A complete guide to implementing Feature Flags in Android](https://levelup.gitconnected.com/a-complete-guide-to-implement-feature-flags-in-android-292911c085e6?source=rss-49a7478e4e39------2)
 
-- [11 Practical Ways to Bring Side Income as a Developer 💰](https://dev.to/opire/11-practical-ways-to-bring-side-income-as-a-developer-5apm)
-- [Agents 101: How to build your first AI Agent in 30 minutes!⚡️](https://dev.to/copilotkit/agents-101-how-to-build-your-first-ai-agent-in-30-minutes-1042)
-- [17 Must-know React Projects for Developers 👩‍💻 🔥](https://dev.to/tolgee_i18n/17-must-know-react-projects-for-developers-28a2)
-- [21 React Projects Too Awesome to Ignore](https://dev.to/copilotkit/21-react-projects-too-awesome-to-ignore-17ec)
-- [The Tech Stack for Building AI Apps in 2025](https://dev.to/copilotkit/the-tech-stack-for-building-ai-apps-in-2025-12l9)
 <!-- /ARTICLES -->
 
 <h3 align="left">🤝🏻 Connect with me:</h3>
